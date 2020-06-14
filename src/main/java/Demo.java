@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 /**
  * @Author sml
  * @Date 2020/6/4 9:48 下午
@@ -27,10 +29,9 @@ class Son extends Father{
     }
     public Son() {
         System.out.println("son构造方法");
-
     }
 
     public static void main(String[] args) {
-        Son son = new Son();
+        System.out.println(Object.class.isAssignableFrom(String.class));
     }
 }
