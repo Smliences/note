@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.List;
 
 /**
  * @Author sml
@@ -32,7 +33,7 @@ class Son extends Father{
     }
 
     public static void main(String[] args) {
-        System.out.println(Object.class.isAssignableFrom(String.class));
+        List<?> list = new ArrayList<>();
     }
 }
 
