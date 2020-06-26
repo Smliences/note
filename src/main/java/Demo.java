@@ -35,3 +35,4 @@ class Son extends Father{
         System.out.println(Object.class.isAssignableFrom(String.class));
     }
 }
+
