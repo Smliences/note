@@ -33,7 +33,18 @@ class Son extends Father{
     }
 
     public static void main(String[] args) {
-        List<?> list = new ArrayList<>();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                System.out.println("234");
+            }
+        }).start();
+        new Thread() {
+            @Override
+            public void run() {
+                System.out.println("234");
+            }
+        }.start();
     }
 }
 
