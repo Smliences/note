@@ -97,3 +97,4 @@ isRunning()
 
 # GenericApplicationContext
 直接继承AAC 然后组合XmlBeanDefinitionReader实现ClassPathXmlAPplicationContext的功能 更加灵活
+
