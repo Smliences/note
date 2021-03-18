@@ -6,9 +6,17 @@
 有一个&符号用来表示获取工厂本身，而不是获取到工厂的实例。
 
 我们学到了什么
-明白了bean的生命周期：一对接口——》 init-method->  postxxx接口也就是一切就绪之后的接口。-》destroy-method()
+明白了bean的生命周期：一堆接口——》 init-method->  postxxx接口也就是一切就绪之后的接口。-》destroy-method()
 明白了跨域给bean指定别名
 明白了bean工厂有层级关系。找bean的过程是：从子到父。
+
+1. Object getBean(String name) throws BeansException
+
+从作者的注释看出，这个接口是用来保存bean的定义信息并且拥有父子容器。这个方法需要判断bean的作用域。
+首先我会用一个可以禁得住并发的数据结构来保存bean的定义。而且我可已通过bean的id和类型找到这个bean。我还需要一个也是可以
+并发的数据结构来缓存new出来的对象（如果是单例我可以复用这个对象）
+
+2. 
 
 # ApplicationContext
 
@@ -97,4 +105,5 @@ isRunning()
 
 # GenericApplicationContext
 直接继承AAC 然后组合XmlBeanDefinitionReader实现ClassPathXmlAPplicationContext的功能 更加灵活
+
 
