@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3108e801-f531-4e1b-9ca8-4251f5f2c8d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/java/io/1. io笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/spring/note/spring bean.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/spring/note/spring核心模块.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/spring/note/ioc.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/spring/note/spring ioc容器.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/spring/note/spring设计模型.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/spring/note/spring设计模型.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cwoe2vgVaPTi9M9Ifn2fe3nvAz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java/spring" />
+      <recent name="$PROJECT_DIR$/java/java-core" />
+      <recent name="$PROJECT_DIR$/java/images/8" />
+      <recent name="$PROJECT_DIR$/java/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Son" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Son" />
+      <module name="note" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Son" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3108e801-f531-4e1b-9ca8-4251f5f2c8d1" name="Default Changelist" comment="" />
+      <created>1591449108775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591449108775</updated>
+      <workItem from="1591449110435" duration="11211000" />
+      <workItem from="1591796237288" duration="30315000" />
+      <workItem from="1592919587024" duration="1687000" />
+      <workItem from="1592923147667" duration="16503000" />
+      <workItem from="1594041872019" duration="8314000" />
+      <workItem from="1596632879887" duration="2586000" />
+      <workItem from="1602009585072" duration="756000" />
+      <workItem from="1604715653438" duration="187000" />
+      <workItem from="1607139998318" duration="647000" />
+      <workItem from="1611494685286" duration="1241000" />
+      <workItem from="1611906576539" duration="2282000" />
+      <workItem from="1611909267492" duration="1306000" />
+      <workItem from="1611911356506" duration="2945000" />
+      <workItem from="1612529328253" duration="644000" />
+      <workItem from="1612589568958" duration="1630000" />
+      <workItem from="1612857861994" duration="1762000" />
+      <workItem from="1612866729809" duration="1026000" />
+      <workItem from="1613453188993" duration="10359000" />
+      <workItem from="1614069005927" duration="997000" />
+      <workItem from="1615883354934" duration="3826000" />
+      <workItem from="1615966404310" duration="7002000" />
+      <workItem from="1616036214484" duration="323000" />
+      <workItem from="1616036947096" duration="1596000" />
+    </task>
+    <task id="LOCAL-00001" summary="本地目录更换">
+      <created>1591449226469</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591449226469</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第七节课">
+      <created>1591627395412</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591627395412</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第八节课">
+      <created>1591710642260</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591710642260</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第九节课">
+      <created>1591798099247</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591798099247</updated>
+    </task>
+    <task id="LOCAL-00005" summary="第十节课">
+      <created>1591882584894</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591882584894</updated>
+    </task>
+    <task id="LOCAL-00006" summary="第十一节课">
+      <created>1592108613516</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592108613516</updated>
+    </task>
+    <task id="LOCAL-00007" summary="第十三节课">
+      <created>1592141212164</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592141212164</updated>
+    </task>
+    <task id="LOCAL-00008" summary="第十四节课">
+      <created>1592312896373</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1592312896373</updated>
+    </task>
+    <task id="LOCAL-00009" summary="第十五节课">
+      <created>1592316891221</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1592316891221</updated>
+    </task>
+    <task id="LOCAL-00010" summary="第十五节课">
+      <created>1592404406063</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1592404406063</updated>
+    </task>
+    <task id="LOCAL-00011" summary="第十五节课">
+      <created>1592487306925</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1592487306925</updated>
+    </task>
+    <task id="LOCAL-00012" summary="第十五节课">
+      <created>1592663200913</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1592663200913</updated>
+    </task>
+    <task id="LOCAL-00013" summary="第十八节课">
+      <created>1592832106501</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1592832106501</updated>
+    </task>
+    <task id="LOCAL-00014" summary="第十九节课">
+      <created>1592921712152</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1592921712152</updated>
+    </task>
+    <task id="LOCAL-00015" summary="第二十节课">
+      <created>1593168304474</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1593168304474</updated>
+    </task>
+    <task id="LOCAL-00016" summary="第二十一节课">
+      <created>1593170750798</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1593170750798</updated>
+    </task>
+    <task id="LOCAL-00017" summary="第二十一节课">
+      <created>1593353653517</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1593353653517</updated>
+    </task>
+    <task id="LOCAL-00018" summary="第二十三节课">
+      <created>1593438234535</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1593438234535</updated>
+    </task>
+    <task id="LOCAL-00019" summary="第二十四节课">
+      <created>1593526389244</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1593526389244</updated>
+    </task>
+    <task id="LOCAL-00020" summary="第二十六节课 打卡">
+      <created>1593696267858</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1593696267858</updated>
+    </task>
+    <task id="LOCAL-00021" summary="第二十六节课 打卡">
+      <created>1594044327878</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1594044327878</updated>
+    </task>
+    <task id="LOCAL-00022" summary="第二十九节课 打卡">
+      <created>1594732560931</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1594732560932</updated>
+    </task>
+    <task id="LOCAL-00023" summary="第三十节课">
+      <created>1594826483931</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1594826483931</updated>
+    </task>
+    <task id="LOCAL-00024" summary="第三十节课">
+      <created>1612500217707</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1612500217707</updated>
+    </task>
+    <task id="LOCAL-00025" summary="spring">
+      <created>1613453020053</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1613453020053</updated>
+    </task>
+    <task id="LOCAL-00026" summary="spring">
+      <created>1616046783039</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1616046783039</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="本地目录更换" />
+    <MESSAGE value="第七节课" />
+    <MESSAGE value="第八节课" />
+    <MESSAGE value="第九节课" />
+    <MESSAGE value="第十节课" />
+    <MESSAGE value="第十一节课" />
+    <MESSAGE value="第十三节课" />
+    <MESSAGE value="第十四节课" />
+    <MESSAGE value="第十五节课" />
+    <MESSAGE value="第十八节课" />
+    <MESSAGE value="第十九节课" />
+    <MESSAGE value="第二十节课" />
+    <MESSAGE value="第二十一节课" />
+    <MESSAGE value="第二十三节课" />
+    <MESSAGE value="第二十四节课" />
+    <MESSAGE value="第二十六节课 打卡" />
+    <MESSAGE value="第二十九节课 打卡" />
+    <MESSAGE value="第三十节课" />
+    <MESSAGE value="spring" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2527" y="421" key="#Notifications" timestamp="1616046505605">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2527" y="421" key="#Notifications/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1616046505605" />
+    <state x="573" y="331" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613452811068">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="573" y="331" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1613452811068" />
+    <state x="2165" y="98" key="CommitChangelistDialog2" timestamp="1616046945574">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="424" y="95" key="CommitChangelistDialog2/-1920.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1613453019526" />
+    <state x="2165" y="98" key="CommitChangelistDialog2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1616046945574" />
+    <state x="168" y="91" key="DiffContextDialog" timestamp="1612500201771">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="168" y="91" key="DiffContextDialog/-1920.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1612500201771" />
+    <state width="1878" height="267" key="GridCell.Tab.0.bottom" timestamp="1616035610568">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="267" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1616035610568" />
+    <state width="1878" height="267" key="GridCell.Tab.0.center" timestamp="1616035610567">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="267" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1616035610567" />
+    <state width="1878" height="267" key="GridCell.Tab.0.left" timestamp="1616035610566">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="267" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1616035610566" />
+    <state width="1878" height="267" key="GridCell.Tab.0.right" timestamp="1616035610567">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="267" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1616035610567" />
+    <state x="428" y="264" key="IDE.errors.dialog" timestamp="1611495471753">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="428" y="264" key="IDE.errors.dialog/0.0.1680.1050@0.0.1680.1050" timestamp="1611495471753" />
+    <state x="462" y="228" key="NewModule_or_Project.wizard" timestamp="1612866756672">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="462" y="228" key="NewModule_or_Project.wizard/-1920.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1612528902544" />
+    <state x="462" y="228" key="NewModule_or_Project.wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1612866756672" />
+    <state x="2079" y="166" key="SettingsEditor" timestamp="1616046577006">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="349" y="161" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1611908021821" />
+    <state x="349" y="161" key="SettingsEditor/1680.0.1194.834/0.0.1680.1050@0.0.1680.1050" timestamp="1612858017324" />
+    <state x="2079" y="166" key="SettingsEditor/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1616046577006" />
+    <state x="2183" y="269" key="Vcs.Push.Dialog.v2" timestamp="1616046925570">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2/-1920.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1613453031542" />
+    <state x="2183" y="269" key="Vcs.Push.Dialog.v2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1616046925570" />
+    <state x="2024" y="200" key="new project wizard" timestamp="1615887352927">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2024" y="200" key="new project wizard/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1615887352927" />
+    <state x="2257" y="240" width="766" height="696" key="search.everywhere.popup" timestamp="1616046389653">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/-1920.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1613455801921" />
+    <state x="2257" y="240" width="766" height="696" key="search.everywhere.popup/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1616046389653" />
+  </component>
+</project>
