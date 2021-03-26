@@ -25,11 +25,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3108e801-f531-4e1b-9ca8-4251f5f2c8d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/io/1. io笔记.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/spring/note/spring bean.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/spring/note/spring核心模块.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/spring/note/ioc.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/spring/note/spring ioc容器.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/spring/note/spring设计模型.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/spring/note/spring设计模型.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/http/http.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +115,10 @@
       <workItem from="1615883354934" duration="3826000" />
       <workItem from="1615966404310" duration="7002000" />
       <workItem from="1616036214484" duration="323000" />
-      <workItem from="1616036947096" duration="1596000" />
+      <workItem from="1616036947096" duration="1749000" />
+      <workItem from="1616047763299" duration="4692000" />
+      <workItem from="1616477133217" duration="5008000" />
+      <workItem from="1616635277627" duration="5614000" />
     </task>
     <task id="LOCAL-00001" summary="本地目录更换">
       <created>1591449226469</created>
