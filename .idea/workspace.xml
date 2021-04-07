@@ -25,12 +25,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3108e801-f531-4e1b-9ca8-4251f5f2c8d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/RPC/RPC.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/jvm/GC.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/jvm/多线程高并发笔记.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/spring/note/spring 配置文件加载流程.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/spring/note/源码方法论.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/spring/images/121617782703_.pic_hd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/spring/images/131617782704_.pic_hd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/spring/note/spring.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/spring/note/spring 配置文件加载流程.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/spring/note/spring 配置文件加载流程.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java/spring/images" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -65,11 +64,15 @@
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java/spring/images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java/spring/note" />
+      <recent name="$PROJECT_DIR$/java/http" />
+      <recent name="$PROJECT_DIR$/java/jvm" />
+      <recent name="$PROJECT_DIR$/java/io" />
       <recent name="$PROJECT_DIR$/java/spring" />
-      <recent name="$PROJECT_DIR$/java/java-core" />
-      <recent name="$PROJECT_DIR$/java/images/8" />
-      <recent name="$PROJECT_DIR$/java/images" />
     </key>
   </component>
   <component name="RunManager">
@@ -124,7 +127,7 @@
       <workItem from="1616635277627" duration="11964000" />
       <workItem from="1616745291521" duration="8930000" />
       <workItem from="1617098370413" duration="599000" />
-      <workItem from="1617153927338" duration="302000" />
+      <workItem from="1617153927338" duration="9767000" />
     </task>
     <task id="LOCAL-00001" summary="本地目录更换">
       <created>1591449226469</created>
@@ -322,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616741553836</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="gc 以及图">
+      <created>1617154377227</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1617154377227</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -362,22 +372,24 @@
     <MESSAGE value="spring" />
     <MESSAGE value="网络通信" />
     <MESSAGE value="io 笔记" />
-    <option name="LAST_COMMIT_MESSAGE" value="io 笔记" />
+    <MESSAGE value="gc 以及图" />
+    <option name="LAST_COMMIT_MESSAGE" value="gc 以及图" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2527" y="421" key="#Notifications" timestamp="1616046505605">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state x="2527" y="421" key="#Notifications/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1616046505605" />
-    <state x="573" y="331" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613452811068">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="2335" y="340" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617154233699">
+      <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state x="573" y="331" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1613452811068" />
-    <state x="2165" y="98" key="CommitChangelistDialog2" timestamp="1616741553643">
+    <state x="2335" y="340" key="#com.intellij.fileTypes.FileTypeChooser/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1617154233699" />
+    <state x="2165" y="98" key="CommitChangelistDialog2" timestamp="1617154376956">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state x="424" y="95" key="CommitChangelistDialog2/-1920.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1613453019526" />
-    <state x="2165" y="98" key="CommitChangelistDialog2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1616741553643" />
+    <state x="2165" y="98" key="CommitChangelistDialog2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1617154376956" />
     <state x="168" y="91" key="DiffContextDialog" timestamp="1612500201771">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -413,11 +425,11 @@
     <state x="349" y="161" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1611908021821" />
     <state x="349" y="161" key="SettingsEditor/1680.0.1194.834/0.0.1680.1050@0.0.1680.1050" timestamp="1612858017324" />
     <state x="2079" y="166" key="SettingsEditor/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1616046577006" />
-    <state x="2183" y="269" key="Vcs.Push.Dialog.v2" timestamp="1616741561565">
+    <state x="2183" y="269" key="Vcs.Push.Dialog.v2" timestamp="1617154382735">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state x="440" y="262" key="Vcs.Push.Dialog.v2/-1920.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1613453031542" />
-    <state x="2183" y="269" key="Vcs.Push.Dialog.v2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1616741561565" />
+    <state x="2183" y="269" key="Vcs.Push.Dialog.v2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1617154382735" />
     <state x="2024" y="200" key="new project wizard" timestamp="1615887352927">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
@@ -427,5 +439,9 @@
     </state>
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/-1920.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1613455801921" />
     <state x="2257" y="240" width="766" height="696" key="search.everywhere.popup/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1617095836363" />
+    <state x="2370" y="456" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1617783038541">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2370" y="456" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1617783038541" />
   </component>
 </project>

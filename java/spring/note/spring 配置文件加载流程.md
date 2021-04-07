@@ -1,5 +1,7 @@
 # spring 配置文件加载流程
 
+> [视频地址](https://www.bilibili.com/video/BV1iZ4y137CZ?p=7)
+
 1. 加载
 2. 解析
 3. 创建实例
@@ -59,6 +61,17 @@ PlaceholderConfigureSupport  替换配置文件里的占位符
 7. 完整对象
 
 8. 销毁流程
+
+### Environment 环境对象
+
+应用程序运行期间，可以读取系统环境变量
+System.getEnv();
+System.getProperties();
+
+
+### spring Bean 的创建过程
+
+
 ### other
 
 1. AopProxy 动态代理抽象接口
