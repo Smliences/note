@@ -25,9 +25,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3108e801-f531-4e1b-9ca8-4251f5f2c8d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/spring/images/121617782703_.pic_hd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/spring/images/131617782704_.pic_hd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/spring/note/spring.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/spring/note/spring 配置文件加载流程.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/spring/note/spring 配置文件加载流程.md" afterDir="false" />
     </list>
@@ -127,7 +124,12 @@
       <workItem from="1616635277627" duration="11964000" />
       <workItem from="1616745291521" duration="8930000" />
       <workItem from="1617098370413" duration="599000" />
-      <workItem from="1617153927338" duration="9767000" />
+      <workItem from="1617153927338" duration="14102000" />
+      <workItem from="1617869481976" duration="4609000" />
+      <workItem from="1618969318055" duration="19000" />
+      <workItem from="1621492905795" duration="6407000" />
+      <workItem from="1621501142735" duration="775000" />
+      <workItem from="1621504662018" duration="525000" />
     </task>
     <task id="LOCAL-00001" summary="本地目录更换">
       <created>1591449226469</created>
@@ -332,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617154377227</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="spring.md 以及 流程图">
+      <created>1617783197757</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1617783197757</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -373,7 +382,8 @@
     <MESSAGE value="网络通信" />
     <MESSAGE value="io 笔记" />
     <MESSAGE value="gc 以及图" />
-    <option name="LAST_COMMIT_MESSAGE" value="gc 以及图" />
+    <MESSAGE value="spring.md 以及 流程图" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring.md 以及 流程图" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2527" y="421" key="#Notifications" timestamp="1616046505605">
@@ -385,15 +395,11 @@
     </state>
     <state x="573" y="331" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1613452811068" />
     <state x="2335" y="340" key="#com.intellij.fileTypes.FileTypeChooser/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1617154233699" />
-    <state x="2165" y="98" key="CommitChangelistDialog2" timestamp="1617154376956">
+    <state x="2165" y="98" key="CommitChangelistDialog2" timestamp="1617783197619">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state x="424" y="95" key="CommitChangelistDialog2/-1920.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1613453019526" />
-    <state x="2165" y="98" key="CommitChangelistDialog2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1617154376956" />
-    <state x="168" y="91" key="DiffContextDialog" timestamp="1612500201771">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="168" y="91" key="DiffContextDialog/-1920.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1612500201771" />
+    <state x="2165" y="98" key="CommitChangelistDialog2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1617783197619" />
     <state width="1878" height="267" key="GridCell.Tab.0.bottom" timestamp="1616035610568">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
@@ -410,30 +416,23 @@
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state width="1878" height="267" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1616035610567" />
-    <state x="428" y="264" key="IDE.errors.dialog" timestamp="1611495471753">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="428" y="264" key="IDE.errors.dialog/0.0.1680.1050@0.0.1680.1050" timestamp="1611495471753" />
     <state x="462" y="228" key="NewModule_or_Project.wizard" timestamp="1612866756672">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="462" y="228" key="NewModule_or_Project.wizard/-1920.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1612528902544" />
     <state x="462" y="228" key="NewModule_or_Project.wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1612866756672" />
     <state x="2079" y="166" key="SettingsEditor" timestamp="1616046577006">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state x="349" y="161" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1611908021821" />
-    <state x="349" y="161" key="SettingsEditor/1680.0.1194.834/0.0.1680.1050@0.0.1680.1050" timestamp="1612858017324" />
     <state x="2079" y="166" key="SettingsEditor/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1616046577006" />
-    <state x="2183" y="269" key="Vcs.Push.Dialog.v2" timestamp="1617154382735">
+    <state x="2183" y="269" key="Vcs.Push.Dialog.v2" timestamp="1617783199533">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state x="440" y="262" key="Vcs.Push.Dialog.v2/-1920.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1613453031542" />
-    <state x="2183" y="269" key="Vcs.Push.Dialog.v2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1617154382735" />
-    <state x="2024" y="200" key="new project wizard" timestamp="1615887352927">
+    <state x="2183" y="269" key="Vcs.Push.Dialog.v2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1617783199533" />
+    <state x="2024" y="200" key="new project wizard" timestamp="1621498975377">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state x="2024" y="200" key="new project wizard/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1615887352927" />
+    <state x="2024" y="200" key="new project wizard/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1621498975377" />
     <state x="2257" y="240" width="766" height="696" key="search.everywhere.popup" timestamp="1617095836363">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
